@@ -6,7 +6,7 @@ import os
 app = Flask(__name__)
 
 
-API_KEY = "AIzaSyBlfMhRzJbJmwQWgXY6vxD8Brq-oLsDEkI"
+API_KEY = "Sua chave API"
 
 client = genai.Client(api_key=API_KEY)
 
